@@ -1,0 +1,17 @@
+{
+    "supported_types": {
+        "$PROJECT_PATH": "#00ff08",
+        "`chs": "#FFB600",
+        "$UID": "#00ff08",
+        "$TPC": "#FFB600",
+        "$PID": "#00ff08",
+        "$REC": "#00ff08",
+        "$PRJ": "#00ff08",
+        "$LIB": "#00ff08",
+        "BAD": "#ff0000"
+    },
+    "supported_files": {
+        ".rstexbin": "#00ff08",
+        "BAD": "#ff0000"
+    }
+}
